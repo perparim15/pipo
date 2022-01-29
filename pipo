@@ -1,0 +1,912 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",IPTV SHQIP
+https://xtream-editor.com/en/get/m3u/4B32332F912EA668950DFB12B9547FDF
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Big brother 1  VIP
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/84
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Big brother 2 VIP
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/85
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Televizione SHQIP",AL: Top channel HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/69
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Televizione SHQIP",AL: Top channel FHD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/70
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Televizione SHQIP",AL: Klan HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/67
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Televizione SHQIP",AL: Klan FHD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/68
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Televizione SHQIP",AL: Klan kosova HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/73
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Klan plus
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/75
+#EXTINF:0 tvg-id="RTK.al" group-title="Televizione SHQIP",AL: Rtk 1 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/57
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Rtk 2 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/58
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Rtk 3 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/59
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Rtk 4 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/60
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: RTSH 1 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/61
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Rtsh 2 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/62
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Rtsh shqip
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/63
+#EXTINF:0 tvg-id="MTV2.mk" group-title="Televizione SHQIP",AL: MRT 2
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/64
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AlsatM HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/65
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: AlsatM FHD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/66
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Syri TV HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/71
+#EXTINF:0 tvg-id="KTV.al" group-title="Televizione SHQIP",AL: KTV HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/72
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Vision plus HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/74
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Kanal 10 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/76
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: T7 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/77
+#EXTINF:0 tvg-id="RTV21HD.al" group-title="Televizione SHQIP",AL: Rtv 21 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/79
+#EXTINF:0 tvg-id="News24.al" group-title="Televizione SHQIP",AL: News 24
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/80
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Televizione SHQIP",AL: Abc news
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/81
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Ora tv
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/82
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Rtsh plus
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/366
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Zjarr tv
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/131
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Tv llapi
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/134
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: RTV Mitrovica
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/135
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Besa tv
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/136
+#EXTINF:0 tvg-id="BBF.al" group-title="Televizione SHQIP",AL: BBF
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/137
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Televizione SHQIP",AL: Peace tv
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/139
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Televizione SHQIP",AL: Folk plus
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/140
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Albuk
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/141
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Koha tv
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/142
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Tv shenja
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/144
+#EXTINF:0 tvg-id="FirstChannel.al" group-title="Televizione SHQIP",AL: First tv
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/145
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Adrianet
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/146
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Euro channel
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/147
+#EXTINF:0 tvg-id="ClubTV.al" group-title="Televizione SHQIP",AL: Club tv
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/148
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Tirana tv
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/149
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Rtv 21 mix
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/151
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Kopliku
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/152
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Festina
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/153
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Televizione SHQIP",AL: Explorer Natyra
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/157
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Televizione SHQIP",AL: Explorer Histori
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/158
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="Televizione SHQIP",AL: Explorer Shkence
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/159
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Televizione SHQIP",AL: Tring planet
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/160
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Televizione SHQIP",AL: Tring World
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/161
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Televizione SHQIP",AL: Tring history
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/162
+#EXTINF:0 tvg-id="DiscoveryHD.uk" group-title="Televizione SHQIP",AL: Discovery HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/163
+#EXTINF:0 tvg-id="Living.al" group-title="Televizione SHQIP",AL: Living HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/164
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Shkence
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/334
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Natyra
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/339
+#EXTINF:0 tvg-id="TipTv.al" group-title="Televizione SHQIP",AL: Tip TV
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/170
+#EXTINF:0 tvg-id="ext" group-title="Televizione SHQIP",AL: Tv sole
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/168
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Televizione SHQIP",AL: Cufo
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/167
+#EXTINF:0 tvg-id="BangBang.al" group-title="Televizione SHQIP",AL: Bang bang
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/166
+
+#EXTINF:0 tvg-id="ext" group-title="Filma",Telegram: IPTV SHQIP / FALAS 100%
+https://m3u-editor.com/serve/e2b6eca0-7856-11ec-a121-b9ea38cbbcc8
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Film Aksion HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/35
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Film Max HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/36
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Film Gold HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/37
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Filma",AL: Film Komedi
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/38
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Filma",AL: Film Drame
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/39
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Filma",AL: Film autor
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/40
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Filma",AL: Film Thriller
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/41
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Film hits HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/42
+#EXTINF:0 tvg-id="T.al" group-title="Filma",AL: T FHD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/43
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Film Stinet
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/44
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Euro Film
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/45
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Filma",AL: Tring comedy
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/46
+#EXTINF:0 tvg-id="TringLife.al" group-title="Filma",AL: Tring life
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/47
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Filma",AL: Tring Shqip
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/48
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Filma",AL: Tring fantasy
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/49
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Tring action HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/50
+#EXTINF:0 tvg-id="TRINGFAMILY.al" group-title="Filma",AL: Tring family
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/54
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Tring collection HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/247
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Tring Classic HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/327
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Tring Novelas HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/248
+#EXTINF:0 tvg-id="Smile.al" group-title="Filma",AL: Smile
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/51
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Filma",AL: Jolly HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/52
+#EXTINF:0 tvg-id="3Plus.al" group-title="Filma",AL: 3 plus
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/53
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Kanal D drama
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/55
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Filma",AL: Cinema 1 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/234
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Cinema 2 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/235
+#EXTINF:0 tvg-id="prime-md" group-title="Filma",AL: Prime
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/236
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: Episode
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/240
+#EXTINF:0 tvg-id="ext" group-title="Filma",AL: X God 1 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/326
+
+#EXTINF:0 tvg-id="ext" group-title="Sporte",Telegram: IPTV SHQIP / FALAS 100%
+https://m3u-editor.com/serve/e2b6eca0-7856-11ec-a121-b9ea38cbbcc8
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sporte",AL: Super sport 1 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/87
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Super sport 2 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/88
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Super sport 2 FHD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/89
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Super sport 3 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/90
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Super Sport 4 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/91
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Sporte",AL: Tring sport 1 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/93
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Sporte",AL: Tring sport 2 FHD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/94
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Sporte",AL: Tring sport 3 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/96
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Rtsh sport
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/102
+#EXTINF:0 tvg-id="ArenaSport2.rs" group-title="Sporte",AL: Arena sport 2 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/200
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Bein sport 1 4K
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/211
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Bein sport 2 4K
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/212
+#EXTINF:0 tvg-id="ext" group-title="Sporte",Bein sport 3 4K
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/213
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Arena Premium 1 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/323
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Arena Premium 2 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/324
+#EXTINF:0 tvg-id="ext" group-title="Sporte",AL: Arena Premium 3 HD
+http://78.31.67.69:8080/FalasMetiTV/L5mU66wNPw/325
+
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",IPTV SHQIP / FALAS 100%
+http://4iptv.xyz:8080/sofia/sofia/14671
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania Channels",AL: RTK 1 HD
+http://4iptv.xyz:8080/sofia/sofia/53660
+#EXTINF:0 tvg-id="RTK.al" group-title="Albania Channels",AL: RTK 1 FHD
+http://4iptv.xyz:8080/sofia/sofia/53661
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTK 2 HD
+http://4iptv.xyz:8080/sofia/sofia/53662
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTK 3 HD
+http://4iptv.xyz:8080/sofia/sofia/53663
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTK 4 HD
+http://4iptv.xyz:8080/sofia/sofia/53664
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania Channels",AL: KTV  HD
+http://4iptv.xyz:8080/sofia/sofia/53678
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania Channels",AL: Klan Kosova
+http://4iptv.xyz:8080/sofia/sofia/53680
+#EXTINF:0 tvg-id="KlanKosova.al" group-title="Albania Channels",AL: Klan Kosova HD
+http://4iptv.xyz:8080/sofia/sofia/53776
+#EXTINF:0 tvg-id="RTV21HD.al" group-title="Albania Channels",AL: RTV 21 HD
+http://4iptv.xyz:8080/sofia/sofia/53773
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTV 21 M
+http://4iptv.xyz:8080/sofia/sofia/53770
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Dukagjini FHD
+http://4iptv.xyz:8080/sofia/sofia/53809
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: T7 HD
+http://4iptv.xyz:8080/sofia/sofia/53811
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Report TV
+http://4iptv.xyz:8080/sofia/sofia/53688
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania Channels",AL: Alsat M
+http://4iptv.xyz:8080/sofia/sofia/53679
+#EXTINF:0 tvg-id="ETV.al" group-title="Albania Channels",AL: ERA TV
+http://4iptv.xyz:8080/sofia/sofia/53777
+#EXTINF:0 tvg-id="TopChannel.al" group-title="Albania Channels",Al: TOP Channel
+http://4iptv.xyz:8080/sofia/sofia/53677
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania Channels",Al: Top Channel HD
+http://4iptv.xyz:8080/sofia/sofia/53676
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania Channels",AL: KLAN HD
+http://4iptv.xyz:8080/sofia/sofia/53697
+#EXTINF:0 tvg-id="KlanTVHD.al" group-title="Albania Channels",AL: Klan TV HD
+http://4iptv.xyz:8080/sofia/sofia/53694
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Klan Plus
+http://4iptv.xyz:8080/sofia/sofia/53696
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: KLAN PLUS HD
+http://4iptv.xyz:8080/sofia/sofia/53695
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania Channels",AL: Vizion Plus
+http://4iptv.xyz:8080/sofia/sofia/53671
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania Channels",AL: Vizion Plus HD
+http://4iptv.xyz:8080/sofia/sofia/53670
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTSH 1
+http://4iptv.xyz:8080/sofia/sofia/53665
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTSH 2
+http://4iptv.xyz:8080/sofia/sofia/53666
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTSH 3
+http://4iptv.xyz:8080/sofia/sofia/53667
+#EXTINF:0 tvg-id="TopNews.al" group-title="Albania Channels",AL: Top News
+http://4iptv.xyz:8080/sofia/sofia/53675
+#EXTINF:0 tvg-id="OraNews.al" group-title="Albania Channels",AL: Ora News
+http://4iptv.xyz:8080/sofia/sofia/53690
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: News24
+http://4iptv.xyz:8080/sofia/sofia/53691
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Fax News
+http://4iptv.xyz:8080/sofia/sofia/53699
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania Channels",AL: ABC News
+http://4iptv.xyz:8080/sofia/sofia/53703
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: A2
+http://4iptv.xyz:8080/sofia/sofia/53704
+#EXTINF:0 tvg-id="TVArta.al" group-title="Albania Channels",AL: TV Arta
+http://4iptv.xyz:8080/sofia/sofia/53819
+#EXTINF:0 tvg-id="FirstChannel.al" group-title="Albania Channels",AL: First Channel
+http://4iptv.xyz:8080/sofia/sofia/53810
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: TV Syri Vision
+http://4iptv.xyz:8080/sofia/sofia/53822
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Kanali 10
+http://4iptv.xyz:8080/sofia/sofia/53813
+#EXTINF:0 tvg-id="BabyTV.al" group-title="Albania Channels",AL: Baby Tv
+http://4iptv.xyz:8080/sofia/sofia/53806
+#EXTINF:0 tvg-id="TringTring.al" group-title="Albania Channels",AL: Tring Tring
+http://4iptv.xyz:8080/sofia/sofia/53784
+#EXTINF:0 tvg-id="BangBang.al" group-title="Albania Channels",AL: Bang Bang
+http://4iptv.xyz:8080/sofia/sofia/53791
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTSH Femije
+http://4iptv.xyz:8080/sofia/sofia/53786
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Albania Channels",AL: CUFO
+http://4iptv.xyz:8080/sofia/sofia/53790
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Sofia TV
+http://4iptv.xyz:8080/sofia/sofia/53826
+#EXTINF:0 tvg-id="Smile.al" group-title="Albania Channels",AL: Tring Smile
+http://4iptv.xyz:8080/sofia/sofia/53785
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTV 21 Junior HD
+http://4iptv.xyz:8080/sofia/sofia/53772
+#EXTINF:0 tvg-id="TipTv.al" group-title="Albania Channels",AL: Tip TV
+http://4iptv.xyz:8080/sofia/sofia/53803
+#EXTINF:0 tvg-id="JuniorTV.al" group-title="Albania Channels",AL: JUNIOR TV
+http://4iptv.xyz:8080/sofia/sofia/53788
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTV ISLAM
+http://4iptv.xyz:8080/sofia/sofia/53685
+#EXTINF:0 tvg-id="PeaceTV.al" group-title="Albania Channels",AL: Peace TV
+http://4iptv.xyz:8080/sofia/sofia/53814
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Mekke TV
+http://4iptv.xyz:8080/sofia/sofia/53692
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Mekke Live HD
+http://4iptv.xyz:8080/sofia/sofia/53815
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Medina TV
+http://4iptv.xyz:8080/sofia/sofia/53693
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Art Doku 1 HD
+http://4iptv.xyz:8080/sofia/sofia/53748
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Art Doku 2 HD
+http://4iptv.xyz:8080/sofia/sofia/53749
+#EXTINF:0 tvg-id="EXPShkence.al" group-title="Albania Channels",AL: EXP SHKENCE
+http://4iptv.xyz:8080/sofia/sofia/53782
+#EXTINF:0 tvg-id="EXPNatyra.al" group-title="Albania Channels",AL: EXP Natyra
+http://4iptv.xyz:8080/sofia/sofia/53783
+#EXTINF:0 tvg-id="EXPHistori.al" group-title="Albania Channels",AL: EXP HISTORI
+http://4iptv.xyz:8080/sofia/sofia/53789
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania Channels",AL: Tring World
+http://4iptv.xyz:8080/sofia/sofia/53779
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania Channels",AL: Tring Planet
+http://4iptv.xyz:8080/sofia/sofia/53712
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania Channels",AL: Tring History
+http://4iptv.xyz:8080/sofia/sofia/53780
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Besa TV
+http://4iptv.xyz:8080/sofia/sofia/53805
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTV SHARRI HD
+http://4iptv.xyz:8080/sofia/sofia/53684
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTSH Muzike
+http://4iptv.xyz:8080/sofia/sofia/53687
+#EXTINF:0 tvg-id="21Popullore.al" group-title="Albania Channels",AL: RTV 21 Popullore
+http://4iptv.xyz:8080/sofia/sofia/53768
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTV 21 Plus HD
+http://4iptv.xyz:8080/sofia/sofia/53769
+#EXTINF:0 tvg-id="SuperSonicTV.al" group-title="Albania Channels",AL: Supersonic TV
+http://4iptv.xyz:8080/sofia/sofia/53792
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: b Music HD
+http://4iptv.xyz:8080/sofia/sofia/53793
+#EXTINF:0 tvg-id="MyMusic.al" group-title="Albania Channels",AL: My Music
+http://4iptv.xyz:8080/sofia/sofia/53794
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Sky Music HD
+http://4iptv.xyz:8080/sofia/sofia/53795
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania Channels",AL: Folk
+http://4iptv.xyz:8080/sofia/sofia/53796
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: ELrodi
+http://4iptv.xyz:8080/sofia/sofia/53799
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Club tv
+http://4iptv.xyz:8080/sofia/sofia/53800
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: BBF Music TV
+http://4iptv.xyz:8080/sofia/sofia/53801
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Top Estrada TV HD
+http://4iptv.xyz:8080/sofia/sofia/53816
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Zico TV FHD
+http://4iptv.xyz:8080/sofia/sofia/53828
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: TV ROZAFA
+http://4iptv.xyz:8080/sofia/sofia/53672
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Turbo Channel
+http://4iptv.xyz:8080/sofia/sofia/53817
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: TURBO CHANNEL
+http://4iptv.xyz:8080/sofia/sofia/53674
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: MFM Musik
+http://4iptv.xyz:8080/sofia/sofia/53797
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTV 21 Mix
+http://4iptv.xyz:8080/sofia/sofia/53771
+#EXTINF:0 tvg-id="T.al" group-title="Albania Channels",AL: T HD
+http://4iptv.xyz:8080/sofia/sofia/53713
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTSH Shqip
+http://4iptv.xyz:8080/sofia/sofia/53686
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania Channels",AL: Tring Shqip
+http://4iptv.xyz:8080/sofia/sofia/53706
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Family HD
+http://4iptv.xyz:8080/sofia/sofia/53736
+#EXTINF:0 tvg-id="FilmNjeHD.al" group-title="Albania Channels",AL: Film Nje HD
+http://4iptv.xyz:8080/sofia/sofia/53724
+#EXTINF:0 tvg-id="FilmDyHD.al" group-title="Albania Channels",AL: Film Dy HD
+http://4iptv.xyz:8080/sofia/sofia/53728
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Albania Channels",AL: Film Aksion
+http://4iptv.xyz:8080/sofia/sofia/53735
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania Channels",AL: Film Komedi
+http://4iptv.xyz:8080/sofia/sofia/53725
+#EXTINF:0 tvg-id="FilmHits.al" group-title="Albania Channels",AL: Film Hits
+http://4iptv.xyz:8080/sofia/sofia/53726
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Film Hits FHD
+http://4iptv.xyz:8080/sofia/sofia/53727
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania Channels",AL: Film Thriller
+http://4iptv.xyz:8080/sofia/sofia/53722
+#EXTINF:0 tvg-id="FilmAutor.al" group-title="Albania Channels",AL: Film Autor
+http://4iptv.xyz:8080/sofia/sofia/53734
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania Channels",AL: Film Dram
+http://4iptv.xyz:8080/sofia/sofia/53729
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Film Stine
+http://4iptv.xyz:8080/sofia/sofia/53723
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania Channels",AL: Tring Jolly HD
+http://4iptv.xyz:8080/sofia/sofia/53720
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Tring Action
+http://4iptv.xyz:8080/sofia/sofia/53710
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Tring Super HD
+http://4iptv.xyz:8080/sofia/sofia/53705
+#EXTINF:0 tvg-id="TringLife.al" group-title="Albania Channels",AL: Tring Life
+http://4iptv.xyz:8080/sofia/sofia/53707
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania Channels",AL: Tring Fantasy
+http://4iptv.xyz:8080/sofia/sofia/53708
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania Channels",AL: Tring Comedy
+http://4iptv.xyz:8080/sofia/sofia/53709
+#EXTINF:0 tvg-id="3Plus.al" group-title="Albania Channels",AL: Tring 3 Plus
+http://4iptv.xyz:8080/sofia/sofia/53711
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Digi Gold HD
+http://4iptv.xyz:8080/sofia/sofia/121534
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Digi Gold 1 HD
+http://4iptv.xyz:8080/sofia/sofia/121535
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Digi Gold 2 HD
+http://4iptv.xyz:8080/sofia/sofia/121536
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Digi Gold 3 HD
+http://4iptv.xyz:8080/sofia/sofia/121537
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Digi Gold 4 HD
+http://4iptv.xyz:8080/sofia/sofia/121538
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Kinema SHQIP
+http://4iptv.xyz:8080/sofia/sofia/53714
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Kinema Hits
+http://4iptv.xyz:8080/sofia/sofia/53715
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Kinema Fantasy
+http://4iptv.xyz:8080/sofia/sofia/53717
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Kinema Comedy
+http://4iptv.xyz:8080/sofia/sofia/53718
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Kinema Aksion
+http://4iptv.xyz:8080/sofia/sofia/53719
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: b Thriller HD
+http://4iptv.xyz:8080/sofia/sofia/53746
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Eurofilm
+http://4iptv.xyz:8080/sofia/sofia/53747
+#EXTINF:0 tvg-id="3Plus.al" group-title="Albania Channels",AL: 3 PLUS
+http://4iptv.xyz:8080/sofia/sofia/53750
+#EXTINF:0 tvg-id="Living.al" group-title="Albania Channels",AL: Living
+http://4iptv.xyz:8080/sofia/sofia/53781
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTSH Film
+http://4iptv.xyz:8080/sofia/sofia/53668
+#EXTINF:0 tvg-id="FilmAksion.al" group-title="Albania Channels",AL: Sky Aksion
+http://4iptv.xyz:8080/sofia/sofia/53737
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Sky Drame
+http://4iptv.xyz:8080/sofia/sofia/53738
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania Channels",AL: Sky Komedi
+http://4iptv.xyz:8080/sofia/sofia/53739
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Sky Novela
+http://4iptv.xyz:8080/sofia/sofia/53740
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Tring International
+http://4iptv.xyz:8080/sofia/sofia/53721
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: TV KOHA tetov
+http://4iptv.xyz:8080/sofia/sofia/53766
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTV Fontana
+http://4iptv.xyz:8080/sofia/sofia/53775
+#EXTINF:0 tvg-id="Muse.al" group-title="Albania Channels",AL: Muse
+http://4iptv.xyz:8080/sofia/sofia/53798
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Gjurmë Shqipëtare TV
+http://4iptv.xyz:8080/sofia/sofia/53802
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Dielli TV
+http://4iptv.xyz:8080/sofia/sofia/53808
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: TV Mitrovica
+http://4iptv.xyz:8080/sofia/sofia/53818
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: TV Uskana FHD
+http://4iptv.xyz:8080/sofia/sofia/53820
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: TV Koha
+http://4iptv.xyz:8080/sofia/sofia/53821
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Tetova TV HD
+http://4iptv.xyz:8080/sofia/sofia/53824
+#EXTINF:0 tvg-id="ONTV.al" group-title="Albania Channels",AL: ON TV
+http://4iptv.xyz:8080/sofia/sofia/53825
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: ZJARR TV
+http://4iptv.xyz:8080/sofia/sofia/53669
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: TV Opoja HD
+http://4iptv.xyz:8080/sofia/sofia/53673
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: RTSH Sport FHD
+http://4iptv.xyz:8080/sofia/sofia/53761
+#EXTINF:0 tvg-id="TringSportNewsHD.al" group-title="Albania Channels",AL: Tring Sport News HD
+http://4iptv.xyz:8080/sofia/sofia/53778
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Albania Channels",AL: Tring Sport 1 HD
+http://4iptv.xyz:8080/sofia/sofia/53754
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Albania Channels",AL: Tring Sport 2 HD
+http://4iptv.xyz:8080/sofia/sofia/53753
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Albania Channels",AL: Tring Sport 3 HD
+http://4iptv.xyz:8080/sofia/sofia/53752
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Albania Channels",AL: Tring Sport 4 HD
+http://4iptv.xyz:8080/sofia/sofia/53751
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Super Sport News HD
+http://4iptv.xyz:8080/sofia/sofia/53755
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Albania Channels",AL: Super Sport 1 HD
+http://4iptv.xyz:8080/sofia/sofia/53760
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Super Sport 2 HD
+http://4iptv.xyz:8080/sofia/sofia/53759
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Super Sport 3 HD
+http://4iptv.xyz:8080/sofia/sofia/53758
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Super Sport 4 HD
+http://4iptv.xyz:8080/sofia/sofia/53757
+#EXTINF:0 tvg-id="ext" group-title="Albania Channels",AL: Super Sport 5 HD
+http://4iptv.xyz:8080/sofia/sofia/53756
+
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Super Sport News HD
+http://4iptv.xyz:8080/sofia/sofia/55894
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Super Sport 2 HD
+http://4iptv.xyz:8080/sofia/sofia/55889
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Super Sport 3 HD
+http://4iptv.xyz:8080/sofia/sofia/55890
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Super Sport 4 HD
+http://4iptv.xyz:8080/sofia/sofia/55891
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Super Sport 5 HD
+http://4iptv.xyz:8080/sofia/sofia/55892
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Tring Sport 1 HD
+http://4iptv.xyz:8080/sofia/sofia/11299
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Tring Sport 2 HD
+http://4iptv.xyz:8080/sofia/sofia/11300
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Tring Sport 3 HD
+http://4iptv.xyz:8080/sofia/sofia/11301
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Tring Sport 4 HD
+http://4iptv.xyz:8080/sofia/sofia/11302
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Kujtesa Sport 1 HD
+http://4iptv.xyz:8080/sofia/sofia/55886
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Kujtesa Sport 2 HD
+http://4iptv.xyz:8080/sofia/sofia/55887
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Kujtesa Sport 3 HD
+http://4iptv.xyz:8080/sofia/sofia/55893
+#EXTINF:0 tvg-id="ext" group-title="AL | Sports",SPORT AL: Kujtesa Sport 4 HD
+http://4iptv.xyz:8080/sofia/sofia/55888
+
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTK 1 HD
+http://4iptv.xyz:8080/sofia/sofia/150296
+#EXTINF:0 tvg-id="RTV21.al" group-title="Albania Premium | Local",Alb: RTV 21 HD
+http://4iptv.xyz:8080/sofia/sofia/150297
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTV 21 MK HD
+http://4iptv.xyz:8080/sofia/sofia/150298
+#EXTINF:0 tvg-id="KTV.al" group-title="Albania Premium | Local",Alb: KTV HD
+http://4iptv.xyz:8080/sofia/sofia/150299
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Klan Kosova
+http://4iptv.xyz:8080/sofia/sofia/150300
+#EXTINF:0 tvg-id="TopChannelHD.al" group-title="Albania Premium | Local",Alb: TOP Channel HD
+http://4iptv.xyz:8080/sofia/sofia/150301
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Dukagjini
+http://4iptv.xyz:8080/sofia/sofia/150302
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: T7 HD
+http://4iptv.xyz:8080/sofia/sofia/150303
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: ATV TV FHD
+http://4iptv.xyz:8080/sofia/sofia/150304
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Klan TV HD
+http://4iptv.xyz:8080/sofia/sofia/150305
+#EXTINF:0 tvg-id="VizionPlus.al" group-title="Albania Premium | Local",Alb: Vizion Plus HD
+http://4iptv.xyz:8080/sofia/sofia/150306
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Klan Plus HD
+http://4iptv.xyz:8080/sofia/sofia/150307
+#EXTINF:0 tvg-id="AlsatM.al" group-title="Albania Premium | Local",Alb: Alsat M HD
+http://4iptv.xyz:8080/sofia/sofia/150308
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH 1 HD
+http://4iptv.xyz:8080/sofia/sofia/150309
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH 2 HD
+http://4iptv.xyz:8080/sofia/sofia/150310
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tirana
+http://4iptv.xyz:8080/sofia/sofia/150311
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Film Nje HD
+http://4iptv.xyz:8080/sofia/sofia/150312
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Film Dy HD
+http://4iptv.xyz:8080/sofia/sofia/150313
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Film Hits HD
+http://4iptv.xyz:8080/sofia/sofia/150314
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Film Aksion HD
+http://4iptv.xyz:8080/sofia/sofia/150315
+#EXTINF:0 tvg-id="FilmThriller.al" group-title="Albania Premium | Local",Alb: FILM Thriller
+http://4iptv.xyz:8080/sofia/sofia/150316
+#EXTINF:0 tvg-id="FilmDrame.al" group-title="Albania Premium | Local",Alb: Film Drame
+http://4iptv.xyz:8080/sofia/sofia/150317
+#EXTINF:0 tvg-id="FilmKomedi.al" group-title="Albania Premium | Local",Alb: FILM Komedi
+http://4iptv.xyz:8080/sofia/sofia/150318
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Film Stinet
+http://4iptv.xyz:8080/sofia/sofia/150319
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Euro Film 4 HD
+http://4iptv.xyz:8080/sofia/sofia/150320
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tring 3+
+http://4iptv.xyz:8080/sofia/sofia/150321
+#EXTINF:0 tvg-id="TringComedy.al" group-title="Albania Premium | Local",Alb: Tring Comedy
+http://4iptv.xyz:8080/sofia/sofia/150322
+#EXTINF:0 tvg-id="TringFantazi.al" group-title="Albania Premium | Local",Alb: Tring Fantasy
+http://4iptv.xyz:8080/sofia/sofia/150323
+#EXTINF:0 tvg-id="T-Hist.al" group-title="Albania Premium | Local",Alb: Tring History
+http://4iptv.xyz:8080/sofia/sofia/150324
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tring Kids
+http://4iptv.xyz:8080/sofia/sofia/150325
+#EXTINF:0 tvg-id="TringLife.al" group-title="Albania Premium | Local",Alb: Tring Life
+http://4iptv.xyz:8080/sofia/sofia/150326
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tring Muse
+http://4iptv.xyz:8080/sofia/sofia/150327
+#EXTINF:0 tvg-id="TringPlanet.al" group-title="Albania Premium | Local",Alb: Tring Planet
+http://4iptv.xyz:8080/sofia/sofia/150328
+#EXTINF:0 tvg-id="TRINGSHQIPI.al" group-title="Albania Premium | Local",Alb: Tring Shqip
+http://4iptv.xyz:8080/sofia/sofia/150329
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Cartoon Network
+http://4iptv.xyz:8080/sofia/sofia/150330
+#EXTINF:0 tvg-id="TringSuper.al" group-title="Albania Premium | Local",Alb: Tring Super
+http://4iptv.xyz:8080/sofia/sofia/150331
+#EXTINF:0 tvg-id="TringTring.al" group-title="Albania Premium | Local",Alb: Tring Tring
+http://4iptv.xyz:8080/sofia/sofia/150332
+#EXTINF:0 tvg-id="TringWorld.al" group-title="Albania Premium | Local",Alb: Tring World
+http://4iptv.xyz:8080/sofia/sofia/150333
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: FilmBox Premium
+http://4iptv.xyz:8080/sofia/sofia/150334
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: FilmBox Extra
+http://4iptv.xyz:8080/sofia/sofia/150335
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: FilmBox Plus
+http://4iptv.xyz:8080/sofia/sofia/150336
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Art Kino 1 HD
+http://4iptv.xyz:8080/sofia/sofia/150337
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Art Kino 2 HD
+http://4iptv.xyz:8080/sofia/sofia/150338
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Art Kino 3 HD
+http://4iptv.xyz:8080/sofia/sofia/150339
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Art Doku 1 HD
+http://4iptv.xyz:8080/sofia/sofia/150340
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Art Doku 2 HD
+http://4iptv.xyz:8080/sofia/sofia/150341
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: FILMA 24 NETFLIX
+http://4iptv.xyz:8080/sofia/sofia/150342
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: KS Humor HD
+http://4iptv.xyz:8080/sofia/sofia/150343
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: X Premium 2 HD
+http://4iptv.xyz:8080/sofia/sofia/150344
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Ks Romance HD
+http://4iptv.xyz:8080/sofia/sofia/150345
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: KS Filma24 Triller
+http://4iptv.xyz:8080/sofia/sofia/150346
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Ks Thriller HD
+http://4iptv.xyz:8080/sofia/sofia/150347
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Sky Aksion
+http://4iptv.xyz:8080/sofia/sofia/150348
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Sky Drame
+http://4iptv.xyz:8080/sofia/sofia/150349
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Sky Max
+http://4iptv.xyz:8080/sofia/sofia/150350
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Sky Novela
+http://4iptv.xyz:8080/sofia/sofia/150351
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: SMILE HD
+http://4iptv.xyz:8080/sofia/sofia/150352
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Sofia HD
+http://4iptv.xyz:8080/sofia/sofia/150353
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Stinet
+http://4iptv.xyz:8080/sofia/sofia/150354
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Top News
+http://4iptv.xyz:8080/sofia/sofia/150355
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: KANALI 7
+http://4iptv.xyz:8080/sofia/sofia/150356
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",ALB: Kanal 10 HD
+http://4iptv.xyz:8080/sofia/sofia/150357
+#EXTINF:0 tvg-id="ABCNews.al" group-title="Albania Premium | Local",Alb: ABC NEWS
+http://4iptv.xyz:8080/sofia/sofia/150358
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Ora News
+http://4iptv.xyz:8080/sofia/sofia/150359
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: FAX NEWS
+http://4iptv.xyz:8080/sofia/sofia/150360
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: A2 CNN
+http://4iptv.xyz:8080/sofia/sofia/150361
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Report TV
+http://4iptv.xyz:8080/sofia/sofia/150362
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Club TV*
+http://4iptv.xyz:8080/sofia/sofia/150363
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Euronews Albania
+http://4iptv.xyz:8080/sofia/sofia/150364
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH 1
+http://4iptv.xyz:8080/sofia/sofia/150365
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH 3
+http://4iptv.xyz:8080/sofia/sofia/150366
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH 24
+http://4iptv.xyz:8080/sofia/sofia/150367
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH Film
+http://4iptv.xyz:8080/sofia/sofia/150368
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH Muzike
+http://4iptv.xyz:8080/sofia/sofia/150369
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH Plus
+http://4iptv.xyz:8080/sofia/sofia/150370
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH Femije
+http://4iptv.xyz:8080/sofia/sofia/150371
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTK 2 HD
+http://4iptv.xyz:8080/sofia/sofia/150372
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTK 3 HD
+http://4iptv.xyz:8080/sofia/sofia/150373
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTK 4 HD
+http://4iptv.xyz:8080/sofia/sofia/150374
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Besa
+http://4iptv.xyz:8080/sofia/sofia/150375
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Dielli
+http://4iptv.xyz:8080/sofia/sofia/150376
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Era Tv
+http://4iptv.xyz:8080/sofia/sofia/150377
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Koha Tetove
+http://4iptv.xyz:8080/sofia/sofia/150378
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Mitrovica
+http://4iptv.xyz:8080/sofia/sofia/150379
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Sharri HD
+http://4iptv.xyz:8080/sofia/sofia/150380
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Shenja
+http://4iptv.xyz:8080/sofia/sofia/150381
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Syri Vision
+http://4iptv.xyz:8080/sofia/sofia/150382
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: First Channel HD
+http://4iptv.xyz:8080/sofia/sofia/150383
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Rtv islam
+http://4iptv.xyz:8080/sofia/sofia/150384
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTV 21 Junior
+http://4iptv.xyz:8080/sofia/sofia/150385
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTV 21 Mix
+http://4iptv.xyz:8080/sofia/sofia/150386
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTV 21 Plus HD
+http://4iptv.xyz:8080/sofia/sofia/150387
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTV 21 Popullore
+http://4iptv.xyz:8080/sofia/sofia/150388
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: ALBUK Music
+http://4iptv.xyz:8080/sofia/sofia/150389
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Animal Planet HD
+http://4iptv.xyz:8080/sofia/sofia/150390
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Arta News FHD
+http://4iptv.xyz:8080/sofia/sofia/150391
+#EXTINF:0 tvg-id="BabyTV.al" group-title="Albania Premium | Local",Alb: Baby TV
+http://4iptv.xyz:8080/sofia/sofia/150392
+#EXTINF:0 tvg-id="BangBang.al" group-title="Albania Premium | Local",Alb: Bang Bang
+http://4iptv.xyz:8080/sofia/sofia/150393
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Boin
+http://4iptv.xyz:8080/sofia/sofia/150394
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Boomerang
+http://4iptv.xyz:8080/sofia/sofia/150395
+#EXTINF:0 tvg-id="CufoTV.al" group-title="Albania Premium | Local",Alb: Cufo
+http://4iptv.xyz:8080/sofia/sofia/150396
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Dasma TV
+http://4iptv.xyz:8080/sofia/sofia/150397
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: DIGI Gold 1 HD
+http://4iptv.xyz:8080/sofia/sofia/150398
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: DIGI Gold HD
+http://4iptv.xyz:8080/sofia/sofia/150399
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Elrodi TV HD
+http://4iptv.xyz:8080/sofia/sofia/150400
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Explorer Natyra HD
+http://4iptv.xyz:8080/sofia/sofia/150401
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Explorer Shkenca
+http://4iptv.xyz:8080/sofia/sofia/150402
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Folk +
+http://4iptv.xyz:8080/sofia/sofia/150403
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Fox
+http://4iptv.xyz:8080/sofia/sofia/150404
+#EXTINF:0 tvg-id="FoxLife.al" group-title="Albania Premium | Local",Alb: Fox Life
+http://4iptv.xyz:8080/sofia/sofia/150405
+#EXTINF:0 tvg-id="JollyHD.al" group-title="Albania Premium | Local",Alb: Jolly HD
+http://4iptv.xyz:8080/sofia/sofia/150406
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Junior TV
+http://4iptv.xyz:8080/sofia/sofia/150407
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Living FHD
+http://4iptv.xyz:8080/sofia/sofia/150408
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Medina Live
+http://4iptv.xyz:8080/sofia/sofia/150409
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: MRT 2
+http://4iptv.xyz:8080/sofia/sofia/150410
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: My Music
+http://4iptv.xyz:8080/sofia/sofia/150411
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Nat Geo FHD
+http://4iptv.xyz:8080/sofia/sofia/150412
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: ON TV
+http://4iptv.xyz:8080/sofia/sofia/150413
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Peace TV
+http://4iptv.xyz:8080/sofia/sofia/150414
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Peace TV Anglisht
+http://4iptv.xyz:8080/sofia/sofia/150415
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Roma TV FHD
+http://4iptv.xyz:8080/sofia/sofia/150416
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Rrokum  HD
+http://4iptv.xyz:8080/sofia/sofia/150417
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTV Fontana
+http://4iptv.xyz:8080/sofia/sofia/150418
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Rtv Pendimi
+http://4iptv.xyz:8080/sofia/sofia/150419
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: STV Folk
+http://4iptv.xyz:8080/sofia/sofia/150420
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: T FHD
+http://4iptv.xyz:8080/sofia/sofia/150421
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tema TV
+http://4iptv.xyz:8080/sofia/sofia/150422
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tom & Jerry HD
+http://4iptv.xyz:8080/sofia/sofia/150423
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Travel Channel FHD
+http://4iptv.xyz:8080/sofia/sofia/150424
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tv Opinion
+http://4iptv.xyz:8080/sofia/sofia/150425
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Opoja
+http://4iptv.xyz:8080/sofia/sofia/150426
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Balkanika Music
+http://4iptv.xyz:8080/sofia/sofia/150427
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: 24 Kitchen
+http://4iptv.xyz:8080/sofia/sofia/150428
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: A-Mol TV
+http://4iptv.xyz:8080/sofia/sofia/150429
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Alb swiss
+http://4iptv.xyz:8080/sofia/sofia/150430
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: BBF Music
+http://4iptv.xyz:8080/sofia/sofia/150431
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Balkan Tv
+http://4iptv.xyz:8080/sofia/sofia/150432
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Balkanika
+http://4iptv.xyz:8080/sofia/sofia/150433
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: KTV  telekom
+http://4iptv.xyz:8080/sofia/sofia/150434
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Diaspora TV
+http://4iptv.xyz:8080/sofia/sofia/150435
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Discovery Channel HD
+http://4iptv.xyz:8080/sofia/sofia/150436
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Drita TV
+http://4iptv.xyz:8080/sofia/sofia/150437
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: EXPLORER HISTORI
+http://4iptv.xyz:8080/sofia/sofia/150438
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: First Kosova
+http://4iptv.xyz:8080/sofia/sofia/150439
+#EXTINF:0 tvg-id="FolkPlus.al" group-title="Albania Premium | Local",Alb: Folk
+http://4iptv.xyz:8080/sofia/sofia/150440
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Fontana
+http://4iptv.xyz:8080/sofia/sofia/150441
+#EXTINF:0 tvg-id="FoxCrime.al" group-title="Albania Premium | Local",Alb: Fox Crime
+http://4iptv.xyz:8080/sofia/sofia/150442
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: JIM JAM
+http://4iptv.xyz:8080/sofia/sofia/150443
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Klan Macedonia
+http://4iptv.xyz:8080/sofia/sofia/150444
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Mekka Live
+http://4iptv.xyz:8080/sofia/sofia/150445
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Music Al
+http://4iptv.xyz:8080/sofia/sofia/150446
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: POPULLORE 21 HD
+http://4iptv.xyz:8080/sofia/sofia/150447
+#EXTINF:0 tvg-id="PlusHD.al" group-title="Albania Premium | Local",Alb: Plus HD
+http://4iptv.xyz:8080/sofia/sofia/150448
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH Kuvend
+http://4iptv.xyz:8080/sofia/sofia/150449
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH Shkodra
+http://4iptv.xyz:8080/sofia/sofia/150450
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: KANAL D DRAMA
+http://4iptv.xyz:8080/sofia/sofia/150451
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTK HD (Tokësor)
+http://4iptv.xyz:8080/sofia/sofia/150452
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH Shqip
+http://4iptv.xyz:8080/sofia/sofia/150453
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: RTSH SAT
+http://4iptv.xyz:8080/sofia/sofia/150454
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: SHARRI
+http://4iptv.xyz:8080/sofia/sofia/150455
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: ShqipTV Western HD
+http://4iptv.xyz:8080/sofia/sofia/150456
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Sky 7 HD
+http://4iptv.xyz:8080/sofia/sofia/150457
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Sky Shkenc
+http://4iptv.xyz:8080/sofia/sofia/150458
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Super Folk
+http://4iptv.xyz:8080/sofia/sofia/150459
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Super Sonic Tv
+http://4iptv.xyz:8080/sofia/sofia/150460
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",ALB: Big Brother 1 HD
+http://4iptv.xyz:8080/sofia/sofia/150461
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",ALB: Big Brother 2 HD
+http://4iptv.xyz:8080/sofia/sofia/150462
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Syri Blue
+http://4iptv.xyz:8080/sofia/sofia/150463
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TELE one 3 HD
+http://4iptv.xyz:8080/sofia/sofia/150464
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TELE one 4 HD
+http://4iptv.xyz:8080/sofia/sofia/150465
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Spin Tv
+http://4iptv.xyz:8080/sofia/sofia/150466
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tring Jolly HD
+http://4iptv.xyz:8080/sofia/sofia/150467
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Globi
+http://4iptv.xyz:8080/sofia/sofia/150468
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Presheva
+http://4iptv.xyz:8080/sofia/sofia/150469
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TELE one 5 HD
+http://4iptv.xyz:8080/sofia/sofia/150470
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TIP TV HD
+http://4iptv.xyz:8080/sofia/sofia/150471
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TLC
+http://4iptv.xyz:8080/sofia/sofia/150472
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: TV Kopliku
+http://4iptv.xyz:8080/sofia/sofia/150473
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tring 3 rezerv
+http://4iptv.xyz:8080/sofia/sofia/150474
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: Tv tetova
+http://4iptv.xyz:8080/sofia/sofia/150475
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: X Comedy HD
+http://4iptv.xyz:8080/sofia/sofia/150476
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: X Gold 1
+http://4iptv.xyz:8080/sofia/sofia/150477
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: X Gold 2
+http://4iptv.xyz:8080/sofia/sofia/150478
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: X Humor HD
+http://4iptv.xyz:8080/sofia/sofia/150479
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: X Kids
+http://4iptv.xyz:8080/sofia/sofia/150480
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: X Natyra HD
+http://4iptv.xyz:8080/sofia/sofia/150481
+#EXTINF:0 tvg-id="ext" group-title="Albania Premium | Local",Alb: ZICO TV FHD
+http://4iptv.xyz:8080/sofia/sofia/150482
